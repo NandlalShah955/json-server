@@ -2,6 +2,7 @@
   "cars": [
     {
       "id": 1,
+      "image":"",
       "brand": "Tata",
       "year": 2019,
 			"type":"Manual",
@@ -11,6 +12,7 @@
     },
     {
       "id": 2,
+      "image":"",
       "brand": "Tata",
 			"type":"AMT",
       "year": 2017,
@@ -22,12 +24,35 @@
 "wishlisted_cars": [
     {
       "id": 1,
+      "image":"",
       "brand": "Tata",
       "year": 2019,
 			"type":"Manual",
       "kms": 10000,
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "email":"shahnandlal49@gmail.com",
+      "username": "Nandlal",
+      "password": 1234
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "username": "Nandlal",
+      "password": 1234
+			
+    }
+  ],
+  "tasklist": [
+    {
+      "id": 1,
+      "task":"Attend Mock"
     }
   ]
 }
